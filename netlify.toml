@@ -6,3 +6,4 @@ status = 200
   base = "first-portfolio"
   publish = "first-portfolio/build" 
   command = "npm run build"
+  publish = "HTML" 
