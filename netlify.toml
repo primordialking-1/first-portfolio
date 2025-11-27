@@ -3,6 +3,6 @@ from = "/*"
 to = "/index.html"
 status = 200
 [build]
-  base = "portfolio"
-  publish = "portfolio/build" 
+  base = "first-portfolio"
+  publish = "first-portfolio/build" 
   command = "npm run build"
