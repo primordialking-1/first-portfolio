@@ -4,6 +4,5 @@ to = "/index.html"
 status = 200
 [build]
   base = "first-portfolio"
-  publish = "first-portfolio/build" 
+  publish = "build" 
   command = "npm run build"
-  publish = "HTML" 
